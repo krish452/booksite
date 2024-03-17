@@ -1,2 +1,2 @@
 # booksite
-Website that lists the best books to read.
+To pull details reagrding any book from Google Books.
